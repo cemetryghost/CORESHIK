@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listViewWidth">0dp</dimen>
+    <dimen name="listViewHeight">0dp</dimen>
+    <dimen name="textPadding">25dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="dividerHeight">1.5dp</dimen>
+</resources>
